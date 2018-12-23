@@ -53,10 +53,9 @@ enableGitInfo = false
 
 [params]
   # AUTHOR SETUP
-
   # Your details.
   name = "José M. Reis"
-  role = "Doctoral Researcher"
+  role = "Doctoral Researcher in Law"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Institute of Law and Economics", url="https://www.jura.uni-hamburg.de/en/forschung/institute-forschungsstellen-und-zentren/institut-recht-oekonomik.html"}, {name="Org2", url=""} ]`.
@@ -107,7 +106,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -167,8 +166,9 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
+  highlight_languages = ["r", "yaml"]
+  highlight_style = "atelier-cave-light"
+  highlight_version = "9.12.0"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -295,8 +295,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Research"
+  url = "/research/"
   weight = 2
 
 [[menu.main]]
@@ -305,19 +305,16 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+    name = "CV"
+    url = "files/10-12-18_Reis_cv.pdf"
+   weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
+  
+  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
