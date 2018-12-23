@@ -12,5 +12,8 @@ image:
 ---
 
 
+A couple of blog posts related with my research and R coming soon, still very much a work in progress though...
+
+![](Work_In_Progress.png)
 
 
