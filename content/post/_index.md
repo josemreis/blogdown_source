@@ -9,6 +9,6 @@ list_format = 2
   
   # Optional featured image (relative to `static/img/` folder).
 [header]
-  image = "regex_joke.png"
-  caption = "A nice hyperbole for what you will see below"
+  image = "goncalinho.jpg"
+  caption = ""
 +++
