@@ -10,5 +10,5 @@ list_format = 2
   # Optional featured image (relative to `static/img/` folder).
 [header]
   image = "goncalinho.jpg"
-  caption = ""
+  caption = "Credits: G. Fonseca"
 +++
