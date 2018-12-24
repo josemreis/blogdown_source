@@ -9,6 +9,6 @@ list_format = 2
   
   # Optional featured image (relative to `static/img/` folder).
 [header]
-  image = "bad-plot-art.jpg"
-  caption = "Elevating bad ploting to an art form (author: yours truly)"
+  image = "regex_joke.png"
+  caption = "A nice hyperbole for what you will see below"
 +++
