@@ -23,6 +23,7 @@ html {
 body {
   font-family: inherit;
   font-size: 1rem;
+  text-align: justify;
   line-height: inherit;
   color: inherit;
   background-color: {{ .Get "background" }};
@@ -113,10 +114,31 @@ a:focus {
 img,
 video {
   height: auto;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  max-width: 100%
   display: block;
+}
+
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+    /* whatever else styles you fancy here */
 }
 
 video {
@@ -137,16 +159,19 @@ figcaption {
   font-size: 1rem;
   margin-bottom: 1.65rem;
   font-family: '{{ .Get "heading_font" }}', sans-serif;
+  text-align: center;
 }
 
 figcaption.numbered:before {
   font-weight: 700;
   text-transform: uppercase;
   content: attr(data-pre) counter(captions) attr(data-post);
+  text-align: center;
 }
 
 figcaption.numbered {
   counter-increment: captions;
+  text-align: center;
 }
 
 figcaption h4 {
@@ -154,6 +179,7 @@ figcaption h4 {
   font-size: 1rem;
   font-weight: 400;
   margin: 0;
+  text-align: center;
 }
 
 pre,

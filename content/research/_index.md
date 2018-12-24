@@ -20,6 +20,8 @@ list_format = 3
 
 ### Writing Away Secrecy? the Political Economy of Transparency in International Law
 
+<figure class="image"><img src='/img/wilson.jpg#center' width='600'><figcaption>Woodrow Wilson</figcaption></figure>
+
 In a time when transparency in foreign policy has attracted much debate, one is surprised to fnd the scarcity of theoretical and empirical scholarship exploring the role of transparency and secrecy in International Law.
 
 In the Public International Law landscape, we observe that most scholars tend to treat crucial dimensions of transparency as mere formalities, and that the few analyses of the topic usually focus on its normative implications but seldomly engage with the positive ones.
@@ -46,6 +48,10 @@ This broad-research question will then be broken into smaller ones in each chapt
 
 (_work in progress_)
 
+
+<figure class="image"><img src='/img/secrecy_ttip.jpg#center' width='600'><figcaption> TTIP chief negotiatiors (source: Intelectual Property Watch, 2016)</figcaption></figure>
+
+
 Following the controversy surrounding the negotiations of the Transatlantic
 Trade and Investment Partnership, transparency in international negotiations has re-gained a central position in policy debates. And while normative literature on the topic afloats, we know very little about when and how often information about ongoing negotiations is actually produced, as well as what its correlates may be.
 
@@ -58,6 +64,10 @@ In opposition to previous findings, we find no robust evidence for variations in
 ### Opening Up International Adjudication - Mapping Procedural Transparency in International Disputes
 
 (_work in progress_)
+
+
+<figure class="image"><img src='/img/ecthr-press.jpg#center' width='600'><figcaption> Press at the ECtHR (source: Wall Street Journal, 2016)</figcaption></figure>
+
 
 It is often argued that "under anarchy" states must create international institutions to manage uncertainty and to enhance compliance with international norms. International institutions facilitate cooperation via the production and dissemination of information regarding states' behaviour. Information on compliance may lead to reputational costs, to potential retaliations by agreement-peers, or mobilization by domestic actors or transnational actors. Among many other key-actors, international adjudicating bodies have traditionally been perceived as crucial "information clearing houses" which, through their rulings, hearings, and audio-visual coverage, diffuse information about states' compliance-behaviour. A necessary condition for these functionalist theories to hold seems to be the actual production of compliance information via international adjudication. Yet, very little is known about when or why "information production" actually occurs in international adjudication. It is often rather assumed or analysed from a de jure  perspective.
 
