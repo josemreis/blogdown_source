@@ -20,7 +20,7 @@ list_format = 3
 
 ### Writing Away Secrecy? the Political Economy of Transparency in International Law
 
-<figure class="image"><img src='/img/wilson.jpg#center' width='600'><figcaption>Woodrow Wilson</figcaption></figure>
+<figure class="image"><img src='/img/wilson.jpg#center' width='600'><figcaption>Woodrow Wilson (source: Politico, 2015)</figcaption></figure>
 
 In a time when transparency in foreign policy has attracted much debate, one is surprised to fnd the scarcity of theoretical and empirical scholarship exploring the role of transparency and secrecy in International Law.
 
