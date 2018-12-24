@@ -44,4 +44,3 @@ weight = 5
 
 I am a researcher at the University of Hamburg. In a nutshell, I am interested in studying the intersection of international law and international relations from a social science perspective.
 
-In this website you will find my current research as well as blog posts on all things Law, Politics, and R.
