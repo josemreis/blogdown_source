@@ -65,7 +65,7 @@ date_format = "January 2006"
   """
   
   [[experience]]
-  title = "Freelance Researcher" 
+  title = "Researcher Freelancer" 
   company = "Lexidale, International Policy Consulting"
   company_url = "https://lexidale.com/"
   location = "Remote"
