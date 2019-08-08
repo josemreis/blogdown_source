@@ -14,8 +14,8 @@ weight = 5
     "Law and Economics",
     "Judicial Behaviour",
     "Media and the Law",
-	"Empirical Legal Studies",
-	"R Programming"
+    "Empirical Legal Studies",
+	  "R Programming"
   ]
 
 # List your qualifications (such as academic degrees).
