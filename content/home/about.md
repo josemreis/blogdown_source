@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "International Law and Politics",
-    "Public Law",
     "Law and Economics",
+    "Judicial Behaviour",
+    "Media and the Law",
 	"Empirical Legal Studies",
 	"R Programming"
   ]
