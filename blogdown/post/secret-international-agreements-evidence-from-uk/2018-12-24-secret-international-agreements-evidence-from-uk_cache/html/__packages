@@ -13,3 +13,4 @@ bindrcpp
 lubridate
 countrycode
 maps
+RColorBrewer
