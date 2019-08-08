@@ -76,6 +76,19 @@ date_format = "January 2006"
   * Elaboration of research reports
   * Data analysis
   """
-
+  
+  [[experience]]
+  title = "Research Associate" 
+  company = "Institute of Law and Economics, University of Hamburg"
+  company_url = "https://www.jura.uni-hamburg.de/die-fakultaet/personenverzeichnis/reis-jose.html"
+  location = "Remote"
+  date_start = "2019-03-01"
+  description = """In the project: *Psychogy and Behavioral Economics of International Law*
+  
+  Relevant tasks:
+  
+  * Research on International Law
+  * Data analysis
+  """
 
 +++

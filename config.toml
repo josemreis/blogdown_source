@@ -9,7 +9,7 @@
 baseurl = "https://josemreis.github.io/"
 
 # Set the publishDir
-publishDir = "C:/Dropbox/github_default/josemreis.github.io"
+publishDir = "/home/jmr/Dropbox/github_default/josemreis.github.io"
 
 # Title of your site
 title = "José M. Reis"
@@ -62,11 +62,11 @@ enableGitInfo = false
   organizations = [{name="Institute of Law and Economics", url="https://www.jura.uni-hamburg.de/en/forschung/institute-forschungsstellen-und-zentren/institut-recht-oekonomik.html"} ,{ name = "University of Hamburg", url = "https://www.uni-hamburg.de/en.html" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "IMG-20190717-WA0002.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jose.reis@ile-graduateschool.de"
-  address = "Room: 2173, Von-Melle-Park 5 20146 Hamburg, Germany"
+  email = "jose.reis@ile-hamburg.de"
+  address = "Johnsallee 35, 20146 Hamburg, Germany"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
@@ -90,7 +90,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = "0"
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
